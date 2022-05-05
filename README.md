@@ -13,9 +13,7 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-#� �N�F�T�-�m�i�n�t�i�n�g�-�w�e�b�s�i�t�e�
-�
-�
+
 
 
 ## ✨ Features
