@@ -46,6 +46,6 @@
     "@nomiclabs/hardhat-waffle": "^2.0.3",
     "dotenv": "^16.0.0",
     "ethereum-waffle": "^3.4.4",
-    "hardhat": "^2.9.3"
+    "hardhat": "^2.9.5"
   }
 }
