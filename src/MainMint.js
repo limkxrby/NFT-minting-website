@@ -44,7 +44,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
       <Box width="520px">
         <div>
           <Text fontSize="48px" textShadow="0 5px #000000">
-            RoboPunks
+            Flyff Metaverse
           </Text>
           <Text
             fontSize="30px"
@@ -52,8 +52,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
             fontFamily="VT323"
             textShadow="0 2px 2px #000000"
           >
-            It's 2022. Can the RoboPunksNFT save humans from destructive rampant
-            NFT speculation? Mint RoboPunksNFT to find out.
+           Coming soon!
           </Text>
         </div>
 
