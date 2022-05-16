@@ -24,6 +24,7 @@ body {
   left: 0;
   position: fixed;
 }
+/*
 
 .moving-background {
   z-index: -1;
@@ -32,10 +33,22 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("./assets/background/parallax-bg.gif");
+  background-image: url("./assets/background/bannervideo1080.mp4");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 40% 40%;
   
+ 
 }
+ */
+
+/* Style the video: 100% width and height to cover the entire window */
+.my-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
