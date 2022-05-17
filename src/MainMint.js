@@ -87,7 +87,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
               />
 
               <Button
-                backgroundColor="#D6517D"
+                backgroundColor="#72D1FF"
                 borderRadius="5px"
                 boxShadow="0px 2px 2px 1px #0F0F0F"
                 color="white"
@@ -103,7 +103,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
             </Flex>
 
             <Button
-              backgroundColor="#D6517D"
+              backgroundColor="#72D1FF"
               borderRadius="5px"
               boxShadow="0px 2px 2px 1px #0F0F0F"
               color="white"
@@ -123,9 +123,9 @@ const MaintMint = ({ accounts, setAccounts }) => {
             letterSpacing="5.5%"
             fontFamily="VT323"
             textShadow="0 3px #000000"
-            color="#D6517D"
+            color="#72D1FF"
           >
-            You must be connected to Mint.
+            Connect your wallet to mint.
           </Text>
         )}
       </Box>
