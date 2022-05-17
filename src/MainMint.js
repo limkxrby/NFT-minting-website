@@ -60,7 +60,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
           <div>
             <Flex justify="center" align="center">
               <Button
-                backgroundColor="#D6517D"
+                backgroundColor="#72D1FF"
                 borderRadius="5px"
                 boxShadow="0px 2px 2px 1px #0F0F0F"
                 color="white"
