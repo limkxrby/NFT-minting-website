@@ -49,7 +49,7 @@ const NavBar = ({accounts, setAccounts}) => {
                 <Box margin="0 15px">Connected</Box>
             ) : (
                 <Button 
-                backgroundColor="#D6517D"
+                backgroundColor="#008fd4"
                 borderRadius="15px"
                 boxShadow="0px 2px 2px 1px #0F0F0F"
                 color="white"

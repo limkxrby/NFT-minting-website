@@ -60,7 +60,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
           <div>
             <Flex justify="center" align="center">
               <Button
-                backgroundColor="#72D1FF"
+                backgroundColor="#008fd4"
                 borderRadius="5px"
                 boxShadow="0px 2px 2px 1px #0F0F0F"
                 color="white"
@@ -87,7 +87,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
               />
 
               <Button
-                backgroundColor="#72D1FF"
+                backgroundColor="#008fd4"
                 borderRadius="5px"
                 boxShadow="0px 2px 2px 1px #0F0F0F"
                 color="white"
@@ -103,7 +103,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
             </Flex>
 
             <Button
-              backgroundColor="#72D1FF"
+              backgroundColor="#008fd4"
               borderRadius="5px"
               boxShadow="0px 2px 2px 1px #0F0F0F"
               color="white"
@@ -123,7 +123,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
             letterSpacing="5.5%"
             fontFamily="VT323"
             textShadow="0 3px #000000"
-            color="#72D1FF"
+            color="#008fd4"
           >
             Connect your wallet to mint.
           </Text>
