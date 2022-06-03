@@ -44,7 +44,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
       <Box width="520px">
         <div>
           <Text fontSize="48px" textShadow="0 5px #000000">
-            Flyff Metaverse
+            RoboPunksNFT
           </Text>
           <Text
             fontSize="30px"
@@ -52,7 +52,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
             fontFamily="VT323"
             textShadow="0 2px 2px #000000"
           >
-            Coming soon!
+            This website is for demo purposes only.
           </Text>
         </div>
 
